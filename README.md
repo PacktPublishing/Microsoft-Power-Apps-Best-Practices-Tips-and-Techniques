@@ -1,2 +1,2 @@
-# Microsoft-Power-Apps-Best-Practices-Tips-and-Techniques
-Microsoft Power Apps Best Practices, Tips, and Techniques, published by Packt
+# Power Apps Tips, Tricks, and Best Practices
+Power Apps Tips, Tricks, and Best Practices, published by Packt
